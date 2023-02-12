@@ -1,0 +1,27 @@
+{
+  "success": true,
+  "configMap": {
+    "searchableAttributes": [
+      {
+        "ordered": false,
+        "name": "Title"
+      },
+      {
+        "ordered": false,
+        "name": "Description"
+      },
+      {
+        "ordered": false,
+        "name": "Days Supply"
+      },
+      {
+        "ordered": false,
+        "name": "Category"
+      },
+      {
+        "ordered": false,
+        "name": "Credit Card Only"
+      }
+    ]
+  }
+}

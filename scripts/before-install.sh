@@ -1,0 +1,1 @@
+rm -rf /etc/eranda/micro_services
